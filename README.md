@@ -1,1 +1,1 @@
-# practica_sql
+# Práctica SQL
